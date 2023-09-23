@@ -1,2 +1,2 @@
-# Java-Script
-A code repo for the Java-Script series making  Rizwan Riyaz. 
+ Basic Java-Script series practise
+A code repo for the Java-Script series making  Rizwan Riyaz.
